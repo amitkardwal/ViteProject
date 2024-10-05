@@ -1,0 +1,14 @@
+/* InfoBox.css */
+
+.InfoBox {
+    display: flex;
+    justify-content: center; /* Center content */
+    align-items: center; /* Center content vertically */
+    margin: 20px; /* Margin around InfoBox */
+}
+
+.cardContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center items in card */
+}
